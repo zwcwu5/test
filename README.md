@@ -6,3 +6,4 @@ HAHAHA
 
 What's your name ? 
 my name is zhang wenchang
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
